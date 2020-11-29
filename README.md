@@ -15,7 +15,7 @@
 - 💮 Minimalistic Design
 - 🌡 Background Image Transition Animation Based on Temperature
 
-### View VueJs Version of This Project here 👉 [vue-weather-app](https://github.com/SumonRayy/vue-weather-app/)
+### watch the VueJs Version of This Project here 👉 [vue-weather-app](https://github.com/SumonRayy/vue-weather-app/)
 
 # Getting Started with Create React App
 
