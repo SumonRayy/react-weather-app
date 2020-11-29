@@ -1,3 +1,22 @@
+# react-weather-app 🌞🌤⛈
+
+<p> A Minimalistic Weather Application Made with ReactJS & NodeJs . </p>
+
+> NOTE: To use this app locally or in a server be sure to create an account on [OpenWeatherMap.org](https://openweathermap.org/) and create a new personal key to use in this app.
+
+<p align="center">
+<img src="splash.jpg" alt="screenshot" width="600" />
+</p>
+
+## features
+
+- 🌍 Current weather based on geolocalization
+- 🗼 Search any city manually
+- 💮 Minimalistic Design
+- 🌡 Background Image Transition Animation Based on Temperature
+
+### View VueJs Version of This Project here 👉 [vue-weather-app](https://github.com/SumonRayy/vue-weather-app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
